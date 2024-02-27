@@ -17,7 +17,7 @@ Navigate to the project directory:
 Run the app:
 <pre><code>flutter run</code></pre>
 
-###Contributing
+### Contributing
 Contributions are welcome! If you find any bugs or have suggestions for new features, feel free to open an issue or submit a pull request.
 
 ### License
